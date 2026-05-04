@@ -1,0 +1,9 @@
+# Visual Studio user settings
+.vs/
+
+# Build results
+bin/
+obj/
+
+# Claude Code local settings
+.claude/

@@ -1,8 +1,0 @@
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.csproj.AssemblyReference.cache
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.GeneratedMSBuildEditorConfig.editorconfig
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.AssemblyInfoInputs.cache
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.AssemblyInfo.cs
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.csproj.CoreCompileInputs.cache
-D:\SourceCode\VS\GMCMModNameI18n\bin\Debug\net6.0\GMCMModNameI18n.deps.json
-D:\SourceCode\VS\GMCMModNameI18n\bin\Debug\net6.0\GMCMModNameI18n.dll
-D:\SourceCode\VS\GMCMModNameI18n\obj\Debug\net6.0\GMCMModNameI18n.dll
