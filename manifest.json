@@ -1,0 +1,16 @@
+{
+  "Name": "GMCMModNameI18n",
+  "Author": "smallfire",
+  "Version": "1.0.0",
+  "Description": "GMCM Mod Name I18n.",
+  "UniqueID": "smallfire.GMCMModNameI18n",
+  "EntryDll": "GMCMModNameI18n.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": true
+    }
+  ]
+}
