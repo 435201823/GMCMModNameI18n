@@ -6,7 +6,7 @@
   "UniqueID": "smallfire.GMCMModNameI18n",
   "EntryDll": "GMCMModNameI18n.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:45825" ],
   "Dependencies": [
     {
       "UniqueID": "spacechase0.GenericModConfigMenu",
